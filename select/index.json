@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "From now on",
+  "base_artist": "幽音しの",
+  "createdAt": "2026-02-19T02:28:12.606330Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "From Now On",
+      "artist": "Nada Surf",
+      "has_synced": true,
+      "path": "select/01_From_Now_On_Nada_Surf.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "From Now On (We're One)",
+      "artist": "Wendy & Lisa",
+      "has_synced": true,
+      "path": "select/02_From_Now_On_(We're_One)_Wendy_&_Lisa.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "From Now On",
+      "artist": "Pavement",
+      "has_synced": false,
+      "path": "select/03_From_Now_On_Pavement.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "From Now On",
+      "artist": "BASIA",
+      "has_synced": true,
+      "path": "select/04_From_Now_On_BASIA.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "From Now On (Band Version)",
+      "artist": "BASIA",
+      "has_synced": false,
+      "path": "select/05_From_Now_On_(Band_Version)_BASIA.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "From Now On",
+      "artist": "The Beautiful South",
+      "has_synced": true,
+      "path": "select/06_From_Now_On_The_Beautiful_South.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "From Now On",
+      "artist": "Peter Bjorn and John",
+      "has_synced": false,
+      "path": "select/07_From_Now_On_Peter_Bjorn_and_John.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "From Now On",
+      "artist": "Supertramp",
+      "has_synced": true,
+      "path": "select/08_From_Now_On_Supertramp.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "From Now On",
+      "artist": "Supertramp",
+      "has_synced": true,
+      "path": "select/09_From_Now_On_Supertramp.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "From Now On",
+      "artist": "Michael Bolton feat. Suzi Benson",
+      "has_synced": true,
+      "path": "select/10_From_Now_On_Michael_Bolton_feat._Suzi_Benson.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "From Now On...",
+      "artist": "Glenn Hughes",
+      "has_synced": false,
+      "path": "select/11_From_Now_On..._Glenn_Hughes.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "From Now On",
+      "artist": "Vetiver",
+      "has_synced": false,
+      "path": "select/12_From_Now_On_Vetiver.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "From Now On",
+      "artist": "Hugh Jackman feat. The Greatest Showman Ensemble",
+      "has_synced": true,
+      "path": "select/13_From_Now_On_Hugh_Jackman_feat._The_Greatest_Showman_Ensemble.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "From Now On",
+      "artist": "Hugh Jackman",
+      "has_synced": true,
+      "path": "select/14_From_Now_On_Hugh_Jackman.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "From Now On",
+      "artist": "Supertramp",
+      "has_synced": false,
+      "path": "select/15_From_Now_On_Supertramp.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Everything I Do Gohn' Be Funky (From Now on)",
+      "artist": "Lee Dorsey",
+      "has_synced": false,
+      "path": "select/16_Everything_I_Do_Gohn'_Be_Funky_(From_Now_on)_Lee_Dorsey.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "From now on",
+      "artist": "幽音しの",
+      "has_synced": false,
+      "path": "select/pl_01_From_now_on_幽音しの.txt"
+    }
+  ]
+}
